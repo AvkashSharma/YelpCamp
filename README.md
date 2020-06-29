@@ -47,3 +47,12 @@ CREATE  |   campgrounds/:id/comments         |   GET   |   Add new comment to DB
 - Discuss nested routes
 - Add the comment new and create routes
 - Add the new comment form
+
+
+### Tools Used
+- Passport
+- Passport Local
+- Passport Local Mongoose
+
+#### auth flow
+#### Express-Session
